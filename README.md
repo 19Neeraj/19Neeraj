@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @19Neeraj
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @ Neeraj yadav
+- 👀 I’m interested in Nextjs
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on E-commerce web
 - 📫 How to reach me ...
